@@ -1,1 +1,1 @@
-# 30-seo-skills
+gh repo clone Illyism/seo-skills
